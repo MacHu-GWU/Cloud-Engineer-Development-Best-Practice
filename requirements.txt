@@ -1,0 +1,6 @@
+boto3                       # AWS API
+troposphere_mate==0.0.11    # Pythonic CloudFormation constructor
+fabric2==2.5.0              # run shell command via ssh on remote server
+invoke==1.4.0               # Clean API for running shell command
+paramiko==2.7.1             # SSH v2 protocol implementation
+patchwork==1.0.1            # Linux System Admin tooling
