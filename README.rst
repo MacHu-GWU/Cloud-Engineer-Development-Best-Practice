@@ -1,6 +1,9 @@
 Cloud Engineer Development Best Practice
 ==============================================================================
 
+**If you are doing development on a Remote Linux Server over 50% of your time, this tutorial is for you**.
+
+This tutorial introduced a easy way to perform complex operation on Remote Server, easy learning curve, no need to be a expert of vim or those hacky linux tools like grep, awk, sed. It aims to train very entry level cloud engineer to be able to contribute robust, stable, reusable codes.
 
 
 ``Typing Command`` vs ``Writing Codes`` Development Pattern
